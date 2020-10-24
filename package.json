@@ -1,0 +1,19 @@
+{
+  "name": "@paeljo/wegplus-tailwind-preset",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paeljo/wegplus-tailwind-preset.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paeljo/wegplus-tailwind-preset/issues"
+  },
+  "homepage": "https://github.com/paeljo/wegplus-tailwind-preset#readme"
+}
